@@ -1,5 +1,6 @@
 # SITTA
-Meeting Logo : https://siyeonkim.notion.site/GNN-Final-Project-1a4051372c4c8066b13dfd6f273d04d0?pvs=4
+Meeting Log : https://siyeonkim.notion.site/GNN-Final-Project-1a4051372c4c8066b13dfd6f273d04d0?pvs=4
+
 The repo contains official PyTorch Implementation of the paper [SITTA: Single Image Texture Translation for Data Augmentation](https://link.springer.com/chapter/10.1007/978-3-031-25063-7_1).
 
 European Conference on Computer Vision (ECCV) Workshops, 2022
